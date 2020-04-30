@@ -41,7 +41,7 @@ def sorted_matrix
   sort2 = ORGANIC_PRODUCE.sort 
   
   nested_sort = [sort1, sort2]
-  
+  nested_sort
 end
 
 def matrix_lookup(matrix, row, column)

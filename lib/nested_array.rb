@@ -36,7 +36,6 @@ def assembled_matrix
 end
 
 def sorted_matrix
-  
   sort1 = CONVENTIONAL_PRODUCE.sort 
   sort2 = ORGANIC_PRODUCE.sort 
   
